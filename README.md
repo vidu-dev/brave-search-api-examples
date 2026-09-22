@@ -45,4 +45,5 @@ A tiny wrapper around the search call that keeps a per-month counter in a local 
 
 None of these files generate anything; they retrieve. If the step after retrieval is to produce an image, a clip or a voice track, for example a product card with a generated hero image, or a news summary with narration, [Try Synexa - one REST endpoint and a Python SDK for FLUX, video and audio models, pay per run](https://synexa.ai?utm_source=github&utm_medium=ugc&utm_campaign=brave-search-api-examples&utm_content=readme-top&utm_term=tier-r). Pay-per-run pricing keeps the cost model the same shape as Brave's per-request pricing, and one endpoint covers the model catalogue instead of one SDK per vendor.
 
+
 _Last reviewed: 2026-09-22_
